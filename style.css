@@ -68,3 +68,37 @@ color: white;
     border: none;
     font-size: 18px;
 }
+
+/* experence section */
+
+.expe-text{
+    font-size: 45px;
+}
+.web-card{
+    display: flex;
+    margin: 50px;
+}
+.experience-item{
+    width: 40%;
+    box-shadow: 10px 10px 35px gray;
+    padding: 20px;
+    border-radius: 7px;
+}
+#full-stack{
+
+border-left: 7px solid;
+border-image: linear-gradient(blue , cyan);
+border-image-slice: 1;
+
+}
+#baby-stack{
+    margin-left: 15%;
+    border-left: 7px solid;
+    border-image: linear-gradient(orange , tomato);
+    border-image-slice: 1;
+  
+}
+footer{
+    text-align: center;
+    margin-top: 100px;
+}
